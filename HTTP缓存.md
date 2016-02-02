@@ -33,4 +33,5 @@ Response:
 [Android网络请求心路历程（下）](http://mp.weixin.qq.com/s?__biz=MzA3MDMyMjkzNg==&amp;mid=402574975&amp;idx=2&amp;sn=61f671ec09fccbe06fe2709d97839bab&amp;scene=1&amp;srcid=01115jXWCWIuOVasjMlt1ilI#rd)  
 
 [Web缓存机制系列](http://www.alloyteam.com/2012/03/web-cache-1-web-cache-overview/)[AlloyTeam]  
-[HTTP缓存](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching?hl=zh-cn)[Google Web]
+[HTTP缓存](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching?hl=zh-cn)[Google Web]  
+[HTTP 缓存策略](http://foofish.net/blog/95/http-cache-policy)
