@@ -61,6 +61,16 @@
 
 [WaterDropListView](https://github.com/THEONE10211024/WaterDropListView):下拉刷新水滴效果
 
+[Blurry](https://github.com/wasabeef/Blurry):毛玻璃效果
+
+[PhotoPicker](https://github.com/donglua/PhotoPicker):类似微信的图片选择、预览组件
+
+[SortableTableView](https://github.com/ISchwarz23/SortableTableView): 一个可灵活定制的排序TableView
+
+[CircleView](https://github.com/jakob-grabner/Circle-Progress-View):带动画的圆形view
+
+[Dotted Progress Bar](https://github.com/igortrncic/dotted-progress-bar):省略号进度条
+
 
 [Google下拉刷新组件，用SwipeRefreshLayout实现](http://www.cnblogs.com/tianzhijiexian/p/4233593.html)
 
@@ -110,6 +120,8 @@
 [StickerCamera](https://github.com/Skykai521/StickerCamera)：集成了相机,图片裁剪,给图片贴贴图打标签
 
 [Telecine](https://github.com/JakeWharton/Telecine)：录制视频
+
+[WilliamChart](https://github.com/diogobernardino/WilliamChart):图表
 
 
 ## 设计
